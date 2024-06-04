@@ -18,6 +18,7 @@ body{
 }
 .container{
     padding: 10px 10%;
+    
 }
 nav{
     display: flex;
@@ -25,6 +26,10 @@ nav{
     justify-content: space-between;
     flex-wrap:wrap;
 
+}
+.logo{
+    width:140px;
+    align-items: flex-end;
 }
 nav ul li{
     display:inline-block;
