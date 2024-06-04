@@ -29,7 +29,7 @@ nav{
 }
 .logo{
     width:140px;
-    align-items: flex-end;
+    align-items:first baseline;
 }
 nav ul li{
     display:inline-block;
