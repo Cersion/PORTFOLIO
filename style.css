@@ -95,5 +95,7 @@ nav ul li a:hover::after{
 
 }
 .sub-title{
+    font-size: 60px;
+    font-weight: 600;
     
 }
