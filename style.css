@@ -172,7 +172,7 @@ nav ul li a:hover::after{
     margin-top: 20px;
     display: inline-block;
 }
-.services-list:hover{
+.services-list div:hover{
     background:#ff004f;
     transform: translateY(-10px);
 }
