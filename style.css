@@ -287,3 +287,8 @@ nav ul li a:hover::after{
     color: #ff004f;
     transform: translate(-5px);
 }
+.btn.btn2{
+    display: inline-block;
+    background: #ff004f;
+    
+}
