@@ -330,4 +330,11 @@ form .btn2{
     #header{
         background-image: url(P.Images/pexels-pixabay-39584.jpg);
     }
+    .header-text{
+        margin-top: 100%;
+        font-size: 15px;
+    }
+    .header-text h1{
+        font-size: 30px;
+    }
 }
